@@ -12,3 +12,6 @@
 
 ## Cara menjalankan
 python latihan1_biodata.py
+
+
+commit ke sekian wkwk, baru liat kalau harus ada 5 commit. saya ada 3 commit di main dan 1 commit di branch ini dan sekarang commit ke 2 di branch ini
